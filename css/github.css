@@ -1,0 +1,29 @@
+*{
+    font-size: xxx-large;
+    background-color: rgb(137, 250, 250);
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 18%;
+    gap: 50px;
+   
+}
+button {
+    margin: 10px;
+    font-size:30px ;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    
+}
+h1 {
+    font-size: xxx-large;
+    text-align: center;
+    text-transform: uppercase;
+}

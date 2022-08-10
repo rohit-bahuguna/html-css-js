@@ -1,0 +1,19 @@
+
+body {
+    background-color: #000000
+    !important;
+}
+
+#whole {
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    gap: 20px;
+    width: 200px;
+}
+
+input {
+    text-align: center;
+}
